@@ -131,6 +131,7 @@ The dashboard contains 10+ interactive sheets:
 - Market segmentation reveals distinct buyer/renter personas
 - Price-age relationships show value propositions
 - Geographic clustering identifies opportunity zones
+
 ---
 
 *This analysis provides data-driven insights for Airbnb hosts and investors looking to optimize their strategies in the post-pandemic travel market.*
