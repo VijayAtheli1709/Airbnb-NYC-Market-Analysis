@@ -19,7 +19,7 @@ This project provides comprehensive analysis of New York City's Airbnb market du
 ## Interactive Dashboard
 ### Live Demo
 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/vijay.chandra.atheli/viz/Airbnb_NY_Story_Dashboard/AirbnbNY)**
-*Click the link above to explore the full interactive dashboard with real-time filtering and analysis capabilities.*
+*Click the link to explore the full interactive dashboard with real-time filtering and analysis capabilities.*
 
 
 ## Project Structure
