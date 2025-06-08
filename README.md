@@ -20,7 +20,7 @@ This project provides comprehensive analysis of New York City's Airbnb market du
 
 ```
 airbnb-nyc-tableau-analysis/
-├── Airbnb_NY_Story_Dashboard.twbx        # Main Tableau workbook
+├── Airbnb_NY_Story_Dashboard.rar
 ├── final_presentation.pdf
 └── README.md
 ```
@@ -99,11 +99,12 @@ airbnb-nyc-tableau-analysis/
 ## Getting Started
 
 ### Prerequisites
+- **.rar file extactor**
 - **Tableau Desktop** (version 2020.4 or later recommended)
 - **Tableau Reader** (free alternative for viewing only)
 
 2. Open the Tableau workbook
-- Navigate to `Airbnb_NY_Dashboard.twbx`
+- After downloading and extracting the 'Airbnb_NY_Dashboard.rar' file, Navigate to `Airbnb_NY_Dashboard.twbx`
 - Double-click to open in Tableau Desktop
 - All data is packaged within the .twbx file
 
